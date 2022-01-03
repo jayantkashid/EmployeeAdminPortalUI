@@ -1,0 +1,9 @@
+table{
+    width: 100%;
+}
+.search-input{
+    outline: none;
+    padding: 8px 10px;
+    border-radius: 3px;
+    border-color: #ccc;
+}
